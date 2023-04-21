@@ -2,3 +2,17 @@
     font-weight: bold;
     text-decoration: underline;
 }
+
+.card-img-top {
+    height: 100%;
+    object-fit: cover;
+}
+
+.card-deck {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .card {
+    flex: 1 1 300px;
+  }
