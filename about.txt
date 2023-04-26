@@ -1,0 +1,5 @@
+Google Fonts library is used for the fonts designs.
+AOS is used for the scrolling animations (Scrolling animations are removed)
+Font Awsome library is not used here, But it can be used for Icons such as Facebook logo with
+<i> tag
+Bootsrap Library is used here
